@@ -1,2 +1,2 @@
 # ROLA
-nazl kampı v5 site :bowie:
+nazl kampı v5 site :bowtie:
