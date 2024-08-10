@@ -1,0 +1,10 @@
+/* Genel stil ayarları */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Carousel resimlerinin yüksekliği */
+.carousel-item img {
+    max-height: 500px;
+    object-fit: cover;
+}
